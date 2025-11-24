@@ -13,15 +13,11 @@ Mi enfoque actual está en fortalecer mis conocimientos en:
 
 Este repositorio es mi espacio principal: aquí documento mi progreso, comparto mis proyectos y mantengo mi roadmap de crecimiento profesional.
 
----
-
 ## 🚀 Objetivo hacia 2027
 ✔ Realizar mis prácticas como Técnico en Sistemas en 2026  
 ✔ Construir un portafolio sólido con proyectos reales  
 ✔ Mejorar mi nivel técnico en áreas como redes, ciberseguridad y desarrollo  
 ✔ Conseguir mi primer trabajo formal en tecnología en 2027
-
----
 
 ## 📂 Proyectos Destacados (en construcción)
 > Cuando subas cada proyecto, agrega aquí el enlace.  
@@ -32,8 +28,6 @@ Este repositorio es mi espacio principal: aquí documento mi progreso, comparto 
 - 🐧 **Herramientas en Linux** – Comandos, configuraciones y mini scripts  
 - 🔐 **Ciberseguridad (legal & educativo)** – Desafíos CTF y análisis educativos  
 - 🛠 **Proyecto Grande 2026** – *(a definir, lo iremos construyendo)*
-
----
 
 ## 📘 Roadmap de Aprendizaje
 ### **2025**
@@ -52,8 +46,6 @@ Este repositorio es mi espacio principal: aquí documento mi progreso, comparto 
 - Documentación profesional del portafolio  
 - Aplicar a empresas tecnológicas  
 
----
-
 ## 🛠 Tecnologías & Herramientas
 - **Sistemas:** Linux (Kali, distros basadas en Debian)  
 - **Redes:** Fundamentos de administración, configuración básica  
@@ -61,12 +53,8 @@ Este repositorio es mi espacio principal: aquí documento mi progreso, comparto 
 - **Versionamiento:** Git y GitHub  
 - **Otros intereses:** automatización, soporte técnico, aprendizaje autodidacta  
 
----
-
 ## 📫 Contacto
 *(Coloca aquí tu correo profesional, si lo deseas. Opcional.)*
-
----
 
 ## 📖 Nota Personal
 Este repositorio representa mi proceso de aprendizaje continuo.  
