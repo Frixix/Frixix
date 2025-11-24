@@ -1,4 +1,5 @@
 # 👋 Hola, soy Robinson Rodriguez (Frix)
+
 Soy estudiante de Ingeniería en Sistemas, técnico en sistemas y apasionado por el mundo de la tecnología.  
 Actualmente estoy construyendo mi perfil profesional para trabajar en una empresa del sector tecnológico en 2027.
 
@@ -19,8 +20,7 @@ Este repositorio es mi espacio principal: aquí documento mi progreso, comparto 
 ✔ Conseguir mi primer trabajo formal en tecnología en 2027
 
 ## 📂 Proyectos Destacados (en construcción)
-> Cuando subas cada proyecto, agrega aquí el enlace.  
-> Te dejo sugerencias iniciales:
+
 
 - 📁 **Proyecto Web Básico** – Página estática con HTML y CSS  
 - 🐍 **Scripts Útiles en Python** – Automatizaciones y tareas simples  
@@ -53,7 +53,7 @@ Este repositorio es mi espacio principal: aquí documento mi progreso, comparto 
 - **Otros intereses:** automatización, soporte técnico, aprendizaje autodidacta  
 
 ## 📫 Contacto
-*(Coloca aquí tu correo profesional, si lo deseas. Opcional.)*
+
 
 ## 📖 Nota Personal
 Este repositorio representa mi proceso de aprendizaje continuo.  
