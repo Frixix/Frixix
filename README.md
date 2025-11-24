@@ -1,5 +1,4 @@
 # 👋 Hola, soy Robinson Rodriguez (Frix)
-
 Soy estudiante de Ingeniería en Sistemas, técnico en sistemas y apasionado por el mundo de la tecnología.  
 Actualmente estoy construyendo mi perfil profesional para trabajar en una empresa del sector tecnológico en 2027.
 
