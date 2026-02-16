@@ -49,7 +49,7 @@ Este repositorio es mi espacio principal: aquí documento mi progreso, comparto 
 - **Otros intereses:** automatización, soporte técnico, aprendizaje autodidacta  
 
 ##  Contacto
-frixrodriguez4321@gmail.com
+robinsonestibenrodriguez1234@gmail.com
 
 
 ##  Nota Personal
