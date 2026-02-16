@@ -26,7 +26,6 @@ Este repositorio es mi espacio principal: aquí documento mi progreso, comparto 
 -  **Scripts Útiles en Python** – Automatizaciones y tareas simples  
 -  **Herramientas en Linux** – Comandos, configuraciones y mini scripts  
 -  **Ciberseguridad (legal & educativo)** – Desafíos CTF y análisis educativos  
--  **Proyecto Grande 2026** – *(a definir, lo iremos construyendo)*
 
 ##  Roadmap de Aprendizaje
 ### **2025**
