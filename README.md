@@ -36,10 +36,10 @@ Actualmente estoy fortaleciendo mis conocimientos en:
 
 ## Objetivo profesional hacia 2027
 
-✔ Realizar mis **prácticas como Técnico en Sistemas en 2026**
-✔ Construir un **portafolio con proyectos reales**
-✔ Profundizar en áreas como **redes, ciberseguridad o sistemas**
-✔ Conseguir mi **primer trabajo formal en tecnología en 2027**
+-✔ Realizar mis **prácticas como Técnico en Sistemas en 2026**
+-✔ Construir un **portafolio con proyectos reales**
+-✔ Profundizar en áreas como **redes, ciberseguridad o sistemas**
+-✔ Conseguir mi **primer trabajo formal en tecnología en 2027**
 
 ---
 
